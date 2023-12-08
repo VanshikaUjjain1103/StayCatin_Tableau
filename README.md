@@ -7,4 +7,4 @@ The Dashboard and story(with insights) helps to answer the following key questio
 1)Top 10 earners \
 2)Relationship between price and earnings \
 3)Any location (shore) getting more earnings \
-4)Relationship between price and reviews \
+4)Relationship between price and reviews 
